@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent from Mr. William Rhodes Knight, to Mr. Igby, one of the members of the House of Commons declaring the proceedings of the Earle of Cumberland, with his forces in York-shire, and other counties in the North parts of this kingdom : with the great victory upon Tuesday last neer Pontefract by the Lo. Fairfax the said Sir William Rhodes, and Capt. Hotham : at which sight were slain 200 of the malignants, 40 of Capt. Hothams side, and the rest of the malignants fled, about 30 being taken prisoners in their flight.</title>
+            <author>Rhodes, William, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57202</idno>
+            <idno type="STC">Wing R1331</idno>
+            <idno type="STC">ESTC R21491</idno>
+            <idno type="EEBO-CITATION">12406517</idno>
+            <idno type="OCLC">ocm 12406517</idno>
+            <idno type="VID">61407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E127, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent from Mr. William Rhodes Knight, to Mr. Igby, one of the members of the House of Commons declaring the proceedings of the Earle of Cumberland, with his forces in York-shire, and other counties in the North parts of this kingdom : with the great victory upon Tuesday last neer Pontefract by the Lo. Fairfax the said Sir William Rhodes, and Capt. Hotham : at which sight were slain 200 of the malignants, 40 of Capt. Hothams side, and the rest of the malignants fled, about 30 being taken prisoners in their flight.</title>
+                  <author>Rhodes, William, Sir.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Noveemb. 12, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Pontefract (West Yorkshire) --  Siege, 1642.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61407:1" rendition="simple:additions"/>
+            <p>The Copy of A LETTER SENT <hi>From Mr. WILLIAM RHODES Knight, TO Mr. IGBY, one of the Members of the Houſe of</hi> COMMONS, Declaring the proceedings of the Earl of <hi>Cumberland,</hi> with his Forces in YORK-SHIRE, and other Counties in the North parts of this Kingdom.</p>
+            <p>With the great VICTORY upon Tueſday, laſt neer <hi>Pontefract</hi> by the Lo:
+<hi>Fairfax</hi> the ſaid Sir <hi>William Rhodes,</hi> and Capt: <hi>Hotham:</hi> At which Fight were ſlain 200 of the Malignants, 40 of Capt: <hi>Hothams</hi> ſide, and the reſt of the Malignants fled; about 30 being taken priſoners in their flight.</p>
+            <p>THis Letter being Read in the Houſe of Commons on Fri<g ref="char:EOLhyphen"/>day, the eleventh day of this inſtant November, 1642.</p>
+            <p>LONDON: Printed for <hi>Tho: Banks. Novemb.</hi> 12. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:61407:2"/>
+            <pb n="3" facs="tcp:61407:2"/>
+            <head>The Copy of a Letter SENT <hi>From Mr. WILLIAM RHODES Knight, TO Mr. IGBY, one of the Members of the Houſe</hi> of COMMONS, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He troubles and diſtractions in this Coun<g ref="char:EOLhyphen"/>ty, hath taken up all our time in ſeeking to prevent danger, and ſuppreſſe the Ma<g ref="char:EOLhyphen"/>lignant party that endeavoureth onely, the deſtruction of us and our Poſteritie, that I have no opportunity to recomend my ſelf, and loving affections unto you, which hath been my deſire; but I crave your excuſe for my negligen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e therein, r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>doubt not but you have had Relations from time to time, of the proceedings of this County from good hands, and likewiſe have received many reports that are onely fictious; my onely deſire is as a mite of my love to you and ſmale token of recompence for that loving affection which I have alwayes found in
+<pb n="4" facs="tcp:61407:3"/>you towards me and mine, to informe you of ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent Affaires and Condition, in which we now ſtand.</p>
+            <p>On Friday laſt, being the fourth day of this pre<g ref="char:EOLhyphen"/>ſent Month of November, ſome of our Forces by Command from the Lord <hi>Fairfax</hi> and Captain <hi>Ho<g ref="char:EOLhyphen"/>tham,</hi> apprehended a meſſenger ſent from Maſter Se<g ref="char:EOLhyphen"/>cretary <hi>Nicholas</hi> with a packet of Letters, directed to the Earl of Cumberland, which I preſume hath been received by the Honourable Houſe of COMMONS; declaring His Majeſties Reſolution, that the ſaid Earl with his Forces conſiſting of about Ten thouſand of the Malignants under his command, ſhould advance from our parts towards London to joyne with his Ma<g ref="char:EOLhyphen"/>jeſties Army; upon which the Knights and Gentry of our County, aſſembled in Councell, unanimouſ<g ref="char:EOLhyphen"/>ly reſolved to hinder the ſaid Earls march, and to the uttermoſt of our endeavours to prevent his deſigns, whereupon we gathered our Forces into an entire Bo<g ref="char:EOLhyphen"/>dy, Captain <hi>Hotham</hi> being our Commander in chief, our Army conſiſting of about Five thouſand horſe and foot, with which we marched towards the ſaid Earl, who incamped neer unto Pontefract, where about three of the clock in the afternoon, wee arrived and diſco<g ref="char:EOLhyphen"/>vered our adverſaries, and coming within ſhot of their Arear, without any parlance or treaty deſired on either ſide; our Souldiers with good courage diſcharged var<g ref="char:EOLhyphen"/>liently, both our forces joyning hot in Battaill and very warmely ſtood to it with variable fortune on ei<g ref="char:EOLhyphen"/>ther ſide, for the ſpace of two or three hours, the Malignants having the advantage of ground; the right
+<pb n="5" facs="tcp:61407:3"/>Wing of their Army obtaining a little Hill a<g ref="char:EOLhyphen"/>gainſt us, which Captain <hi>Hotham</hi> perceiving, commanded the left Wing of our Forces go<g ref="char:EOLhyphen"/>verned by my ſelf and Sir <hi>William Savile,</hi> to wheele about and face that part of the Enemy that had the Hill, between whome began a moſt fierce Skirmiſh, the reſt of the Forces playing very hotly beneath the Hill in the Va<g ref="char:EOLunhyphen"/>ley. In this manner we continued untill darke night, not perceiving which ſide had the bet<g ref="char:EOLhyphen"/>ter, a retreat being ſounded on both ſides till the next morning.</p>
+            <p>On Saturday morning a Parley was deſired by the Earl, which being granted, His Lord<g ref="char:EOLhyphen"/>ſhip demanded free paſſage with his Forces to His Majeſty, promiſing that his Souldiers ſhould do no dammage in their march to their Coun<g ref="char:EOLhyphen"/>tryes, but onely for ſubſiſtance of Victualls, which demande being utterly denyed on our part, we fell to Skirmiſh a freſh: about a thou<g ref="char:EOLhyphen"/>ſand of the Inhabitants of the Country in com<g ref="char:EOLhyphen"/>pleat Arms freely coming in to our aſſiſtance, by which meanes our Enemies being fearfull of the coming in of more aide, began to re<g ref="char:EOLhyphen"/>treat and finally to fly; in this Skirmiſh of our ſide, were ſlain about forty, of the other ſide a<g ref="char:EOLhyphen"/>bout two hundred, and about thirty taken pri<g ref="char:EOLhyphen"/>ſoners, the reſidue in their flight being ſepera<g ref="char:EOLhyphen"/>ted, eſcaped into ſeverall parts of our Coun<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:61407:4"/>in a confuſed manner, wee being in hope by purſuing our good luck with the Countries aſ<g ref="char:EOLhyphen"/>ſiſtance, utterly to ſuppreſſe them; for it is con<g ref="char:EOLhyphen"/>ceived, they cannot again gather a head, ma<g ref="char:EOLhyphen"/>ny of them which came out of the Counties of
+<hi>Cumberland, Northumberland,</hi> and other places, being returned home again.</p>
+            <p>After which our Forces returned to <hi>Pontefract</hi> to refreſh our Souldiers with intention (God<g ref="char:EOLhyphen"/>willing) on Munday next to purſue the ſaid Earl, and either apprehend him, or drive him out of our Countries: And this is all (Sir) that this preſent opportunity will afford mee to write unto you; which if it may bee profitable, or commodious, to bee made known to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons, or otherwiſe ſerve onely for your private reading, you may do which ſeemeth good to your ſelf with it.</p>
+            <p>And thus, till further opportunity, and better matter cometh to my hands, to inform you of, I commit you, and the reſt of that Honorable Aſſembly to the bleſſing and protection of the Almighty, whoſe ſervants they profeſſe to bee, and vvhoſe cauſe they have undertaken; and heartily take my leave.</p>
+            <closer>
+               <signed>
+                  <hi>Your affectionate friend,</hi> W. Rhodes.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61407:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
